@@ -29,9 +29,14 @@ Caso prefira rodar o programa utilizando o aplicativo em Jupyter Notebook, não 
 
 ## Executando a Calculadora de Integrais
 
-1. Clone o repositorio do GitHub do projeto
+1. Clone o repositorio do GitHub do projeto com https
    ```shell
-   git clone https://github.com/gabriel-santos/Calculadora-de-Integrais.git
+   git clone https://github.com/ribeir099/Integral-calculator.git
+   ```
+   
+   Ou com ssh
+   ```shell
+   git clone git@github.com:ribeir099/Integral-calculator.git
    ```
 2. Execute o arquivo `app.py`
    ```shell
