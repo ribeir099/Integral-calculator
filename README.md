@@ -1,6 +1,7 @@
 # Calculadora de Integrais
 
-A Calculadora de Integrais é uma aplicação que permite calcular integrais de funções matemáticas. Ela oferece diferentes opções, incluindo integração indefinida, integração definida, substituição de variáveis e integração por partes. A aplicação deve ser executada no terminal, apartir do arquivo `app.py` ou `app.ipnyb`.
+A Calculadora de Integrais é uma aplicação que permite calcular integrais de funções matemáticas. Ela oferece diferentes opções, incluindo integração indefinida, integração definida, substituição de variáveis e integração por partes. A aplicação deve ser executada no terminal, apartir do arquivo `app.py` ou `app.ipnyb`. 
+Em caso de dúvidas a respeito de como são calculadas as integrais, o código do `app.py` está todo comentado.
 
 ## Requisitos
 
